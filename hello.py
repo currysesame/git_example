@@ -6,3 +6,7 @@ Created on Thu Feb 13 12:09:26 2020
 """
 
 print('hello python & git_')
+print('abc')
+
+
+b = 6
