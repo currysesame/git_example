@@ -1,6 +1,9 @@
 # git_example
+
 How to upload code to github
+
 Resource:
+
 https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 
 git --version
