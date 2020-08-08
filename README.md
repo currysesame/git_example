@@ -6,6 +6,12 @@ Resource:
 
 https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 
+Download cmder full version https://cmder.net/
+
+open cmder at C:\\cmder
+
+Cmder will initialize some program, wait until the sign λ show up.
+
 git --version
 
 git config --global user.name "your name"
