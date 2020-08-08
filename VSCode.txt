@@ -1,0 +1,37 @@
+
+REF: https://junyou.tw/vscode-c/
+
+Download vscode
+
+install vscode
+
+Download ming-w64
+
+Architecture switch to x86_64
+
+install to C:\mingw-w64\ mingw64
+
+Download LLVM Pre-Built Binaries Version
+
+choose the second box“Add LLVM to the system PATH for all users"
+
+install to C:\LLVM
+
+copy all the data in mingw64 to LLVM folder.
+
+add extensions:
+
+	C/C++ (IntelliSense, debugging, and code browsing.)
+	C/C++ Clang Command Adapter
+	Code Runner
+
+Create a new folder C_Projects
+
+add empty folder ".vscode”to this folder
+
+add “c_cpp_properties.json”、”launch.json”、”settings.json” 以及 “tasks.json”。
+
+Ctrl + Shift +B: Bulid
+
+Ctrl + Alt + N: Run
+
